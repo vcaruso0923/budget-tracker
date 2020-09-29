@@ -143,6 +143,7 @@ function sendTransaction(isAdding) {
       nameEl.value = "";
       amountEl.value = "";
     });
+    window.alert('Your transaction has been recieved!')
 }
 
 document.querySelector("#add-btn").onclick = function () {
