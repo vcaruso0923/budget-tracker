@@ -4,7 +4,7 @@
     "description": "An app that allows you to track your budget.",
     "background_color": "#01579b",
     "theme_color": "#ffffff",
-    "start-url": "/index.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "icons": [
         {
