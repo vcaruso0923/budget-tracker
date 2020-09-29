@@ -1,0 +1,21 @@
+{
+    "name": "Budget Tracker",
+    "short_name": "Budgetie",
+    "description": "An app that allows you to track your budget.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "start-url" : "/index.html",
+    "display" : "standalone",
+    "icons": [
+        {
+            "src": "/img/icons/icons-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
